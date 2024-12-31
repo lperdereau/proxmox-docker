@@ -1,0 +1,7 @@
+# Proxmox VE pve-no-subscription repository provided by proxmox.com,
+# NOT recommended for production use
+Types: deb
+URIs: http://download.proxmox.com/debian/pdm
+Suites: bookworm
+Components: pdm-test
+Signed-By: /etc/apt/trusted.gpg.d/proxmox-release-bookworm.gpg
